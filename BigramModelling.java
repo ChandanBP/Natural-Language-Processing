@@ -30,7 +30,7 @@ public class BigramModelling {
     PriorityQueue<GoodTuring>s2Q = new PriorityQueue<>();
     
     TreeMap<Float, Integer>s1Map = new TreeMap<>();
-    TreeMap<Float, Integer>s2Map = new TreeMap<>();
+    TreeMap<Float, Integer>s2Map = new TreeMap<>(); 
     
    class Node implements Comparable<Node>{
 		
